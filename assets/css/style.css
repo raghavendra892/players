@@ -1,0 +1,13 @@
+.all  div {
+	height: 300px;
+	border: 1px solid #ccc;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+
+.sachin, .dhoni, .virat, .raina,   img{
+	height: 300px;
+	object-fit: cover;
+	width: 250px;
+	margin-bottom: 25px;
+}
